@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/TRON-Mensajes/static/js/main.f047f7d6.chunk.js",
+    "main.js.map": "/TRON-Mensajes/static/js/main.f047f7d6.chunk.js.map",
+    "runtime-main.js": "/TRON-Mensajes/static/js/runtime-main.d228b1bd.js",
+    "runtime-main.js.map": "/TRON-Mensajes/static/js/runtime-main.d228b1bd.js.map",
+    "static/js/2.bf097f37.chunk.js": "/TRON-Mensajes/static/js/2.bf097f37.chunk.js",
+    "static/js/2.bf097f37.chunk.js.map": "/TRON-Mensajes/static/js/2.bf097f37.chunk.js.map",
+    "index.html": "/TRON-Mensajes/index.html",
+    "precache-manifest.ffc5b6482d9dbd3ece98170b939e5cac.js": "/TRON-Mensajes/precache-manifest.ffc5b6482d9dbd3ece98170b939e5cac.js",
+    "service-worker.js": "/TRON-Mensajes/service-worker.js",
+    "static/js/2.bf097f37.chunk.js.LICENSE.txt": "/TRON-Mensajes/static/js/2.bf097f37.chunk.js.LICENSE.txt",
+    "static/media/TronLinkLogo.png": "/TRON-Mensajes/static/media/TronLinkLogo.d3a8f115.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d228b1bd.js",
+    "static/js/2.bf097f37.chunk.js",
+    "static/js/main.f047f7d6.chunk.js"
+  ]
+}
