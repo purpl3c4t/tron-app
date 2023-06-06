@@ -46,28 +46,22 @@
 
 ### NPM
 
-- Make sure you have NPM installed. You can install it by following instructions here: [install NPM](https://www.npmjs.com/get-npm). using NVM (Node Version Manager) is recommended, and directions can be found [here](https://medium.com/@Joachim8675309/installing-node-js-with-nvm-4dc469c977d9).
-
+- Tener instalado NPM. Puede instalarlo siguiendo las instrucciones aquí: [instalar NPM] (https://www.npmjs.com/get-npm). Se recomienda usar NVM (Node Version Manager), y las instrucciones se pueden encontrar [aquí] (https://medium.com/@Joachim8675309/installing-node-js-with-nvm-4dc469c977d9).
 ### TronBox
 
-- TronBox is a tool developed by the TRON team to help you compile and deploy your contracts quickly.
-- Now that you have NPM installed, you can install TronBox globally on your machine by opening up your terminal and entering `npm install -g tronbox`.
+- TronBox es una herramienta desarrollada por el equipo de TRON para ayudarlo a compilar e implementar sus contratos rápidamente.
+- Ahora que tiene NPM instalado, puede instalar TronBox globalmente en su máquina abriendo su terminal e ingresando `npm install -g tronbox`.
 - [TronBox GitHub](https://github.com/tronprotocol/tron-box).
-- [TronBox Documentation](https://developers.tron.network/docs/tron-box-user-guide).
+- [Documentación de TronBox](https://developers.tron.network/docs/tron-box-user-guide).
 
-## Let's begin coding your first dApp on Tron!
+## Composición de la aplicación
 
 ### Set up the Project
 
-1. Download or Clone the skeleton for this guide from [here](https://github.com/TRON-US/eCommerce-hello-world).
-2. From your terminal, `cd` into this newly created directory.
-3. In terminal, run `npm install`.
-4. Open up this project in your favorite IDE/text-editor.
-
-### Get Familiar with Application
-
-1. Tour
-2. Something
+1. Descargue o clone el esqueleto de esta guía desde [aquí](https://github.com/TRON-US/eCommerce-hello-world).
+2. Desde su terminal, `cd` en este directorio recién creado.
+3. En la terminal, ejecute `npm install`.
+4. Abra este proyecto en su IDE/editor de texto favorito.
 
 ### Set up dotenv file **IMPORTANT**
 
